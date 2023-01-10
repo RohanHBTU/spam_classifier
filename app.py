@@ -61,4 +61,4 @@ if st.button('Check Now!'):
     else:
         st.success("Not Spam")
     st.write("Thank you! I hope you liked it. ")
-    st.write("Check out this Repo's [GitHub Link](https://github.com/RohanHBTU/spam-classifier)")
+    st.write("Check out this Repo's [GitHub Link](https://github.com/RohanHBTU/spam_classifier)")
